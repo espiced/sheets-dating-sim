@@ -1,5 +1,5 @@
 Public Sub cmdTest_Click()
 
-    MsgBox ("Test passed2")
+    MsgBox "hiiii", vbCritical, Title:="ATTENTION!!!!!"
     
 End Sub
