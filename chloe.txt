@@ -1,0 +1,29 @@
+Fresh meat! When did you fall out of the parent directory?;;
+;;
+I'm Chloe. Finance major, Dean's List, D1 bitch. It's kind of my thing.;;
+;;
+And...? Aren't you going to tell me what you're majoring in?;;
+Biology;Government;Computer Science, of course!
+Bio, huh? I guess that explains why you haven't blinked in, like, five minutes.;Government? I probably could have guessed that given how loud you're talking!;Well CS definitely tracks... I shoulda known when I smelled something funny.....
+;;
+Well, I hope you're good at solving for x. My professor told me I'm the only student he's ever seen solve all of these. I'm trying to prove him right! Let's start with... 2x+5=11;;
+3;4;6
+Tch. Beginner's luck.;So close!;So close!
+;;
+3x-7=11;;
+5;6;7
+Aw. Cute. Try again;Well... maybe you're just good at your threes;Aw. Cute. Try again
+;;
+4x+3=15;;
+3;5;17
+You sure you're not cheating??;Sorry... we can't all be as good as me!; Sorry... we can't all be as good as me!
+;;
+2(x-3)=10;;
+13;10;8
+It's okay if this is hard for you! I understand. Kinda.;It's okay if this is hard for you! I understand. Kinda.;Maybe I doubted you, you're actually not so bad at this...
+;;
+5(x+2)=35;;
+4;5;7
+Mhm, not so tough now, huh?; HOW?!? Maybe my professor gave me the wrong problems...; Mhm, not so tough now, huh?
+;;
+Well I'll smell ya later, new kid. Maybe next time you'll comb your hair before leaving home!
